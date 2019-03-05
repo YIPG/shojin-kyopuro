@@ -1,4 +1,3 @@
-# shojin-kyopuro
-精進
+# 精進
 
-精進用のレポジトリです。基本的にpython. pythonさいこう。
+Atcoderで今まで解いた問題は[Atcoder Problems](https://kenkoooo.com/atcoder/?user=YIPG&rivals=&kind=category)で参照できます。
